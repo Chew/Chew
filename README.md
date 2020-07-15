@@ -18,7 +18,7 @@ Everything! If you want to improve my (honestly, awful) projects, feel free to s
 
 ## 🤔 I’m looking for help with
 
-There's some stuff I'm stuck on, but I always like a challenge :). 
+[Here's a list of all open issues in my repos that need help](https://github.com/issues?q=is%3Aissue+is%3Aopen+user%3AChew+archived%3Afalse+sort%3Aupdated-desc+label%3A"help+wanted"), feel free to give me a hand!
 
 ## 😄 Pronouns:
 

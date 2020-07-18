@@ -2,10 +2,10 @@
 
 I am Chew. My actual human name is Olivia though, you can call me whatever you want :p
 
-<details open>
-<summary>Click to hide</summary>
+<details>
+<summary>Click to learn more about me!</summary>
 <br>
-I make many projects, mostly for fun since I'm currently not in an computer science field at the moment, I do plan on going to college and getting some knowledge where needed.
+Hey! Thanks for checking me out. I make many projects, mostly for fun since I'm currently not in an computer science field at the moment, I do plan on going to college and getting some knowledge where needed.
 
 ## 🔭 I’m currently working on
 

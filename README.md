@@ -8,6 +8,8 @@ I am Chew. My actual human name is Olivia though, you can call me whatever you w
 
 [Discord Bots I've made](https://github.com/Chew/Chew/blob/master/projects/discordbots.md)
 
+[Spigot Plugins I've made](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
+
 </details>
 
 <details>

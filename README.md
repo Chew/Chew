@@ -3,6 +3,14 @@
 I am Chew. My actual human name is Olivia though, you can call me whatever you want :p
 
 <details>
+<summary>Click to view my projects!</summary>
+<br>
+
+[Discord Bots I've made](https://github.com/Chew/Chew/blob/master/projects/discordbots.md)
+
+</details>
+
+<details>
 <summary>Click to learn more about me!</summary>
 <br>
 Hey! Thanks for checking me out. I make many projects, mostly for fun since I'm currently not in an computer science field at the moment, I do plan on going to college and getting some knowledge where needed.

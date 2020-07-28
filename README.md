@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chew. My actual human name is Olivia though, you can call me whatever you want :p
+I Chew. Human name of i is Olivia, you call me whatever want :p
 
 <details>
 <summary>Click to view my projects!</summary>

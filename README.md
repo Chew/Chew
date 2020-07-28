@@ -6,9 +6,9 @@ I am Chew. My actual human name is Olivia though, you can call me whatever you w
 <summary>Click to view my projects!</summary>
 <br>
 
-[Discord Bots I've made](https://github.com/Chew/Chew/blob/master/projects/discordbots.md)
+[Discord Bots](https://github.com/Chew/Chew/blob/master/projects/discord-bots.md)
 
-[Spigot Plugins I've made](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
+[Spigot Plugins](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
 
 </details>
 
@@ -19,7 +19,7 @@ Hey! Thanks for checking me out. I make many projects, mostly for fun since I'm 
 
 ## 🔭 I’m currently working on
 
-I work on many projects, it varies wildly depending on what I'm feeling, so check my recent commits to see :)
+I work on many projects! It varies wildly depending on what I'm feeling, so check my recent contributions to see :)
 
 ## 🌱 I’m currently learning
 
@@ -42,4 +42,3 @@ she/her :)
 I have a cat named Rory! So as a result my free time to contribute is now much lower, gotta make sure she knows she's loved!
 
 </details>
-

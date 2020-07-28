@@ -1,6 +1,6 @@
-### Oi
+### Hi there 👋
 
-I Chew. Human name of i is Olivia, you call me whatever want :p
+I am Chew. My actual human name is Olivia though, you can call me whatever you want :p
 
 <details>
 <summary>View my projects!</summary>
@@ -8,7 +8,7 @@ I Chew. Human name of i is Olivia, you call me whatever want :p
 
 [Discord Bots](https://github.com/Chew/Chew/blob/master/projects/discordbots.md)
 
-[Spigot Plugin](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
+[Spigot Plugins](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
 
 </details>
 
@@ -19,11 +19,11 @@ Hey! Thanks for checking me out. I make many projects, mostly for fun since I'm 
 
 ## 🔭 I’m working on
 
-I work on projects, it depending on what feeling, so check my commits to see :)
+I work on many projects, depending on how I'm feeling, so check my recent contributions to see :)
 
 ## 🌱 I’m learning
 
-I'm learning Ruby and Java, my first 2 languages. Every time I learn something, I always find out there's so much, I don't know. I do plan on learning more languages!
+I'm continuing to learning Ruby and Java, my first 2 languages. Every time I learn something new I always find out there's so much I didn't know. I do plan on learning more languages!
 
 ## 👯 I’m looking to collaborate on
 
@@ -42,4 +42,3 @@ she/her :)
 I have a cat named Rory! So as a result my free time to contribute is now much lower, gotta make sure she knows she's loved!
 
 </details>
-

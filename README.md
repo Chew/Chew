@@ -6,9 +6,35 @@ I am Chew. My actual human name is Olivia though, you can call me whatever you w
 <summary>Click to view my projects!</summary>
 <br>
 
-[Discord Bots](https://github.com/Chew/Chew/blob/master/projects/discord-bots.md)
+# Creations
 
-[Spigot Plugins](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
+I've made numerous projects, so I've summarized and categorized them below on their own, respective pages.
+
+## [Discord Bots](https://github.com/Chew/Chew/blob/master/projects/discord-bots.md)
+
+I've made several Discord bots for various reasons in various languages. Some are server specific but some are global for all to use and enjoy!
+
+## [Spigot Plugins](https://github.com/Chew/Chew/blob/master/projects/spigot-plugins.md)
+
+I've made several plugins for Spigot, a implementation of the Bukkit API for Minecraft servers.
+They are designed for [Paper](https://github.com/PaperMC), which I highly recommend instead.
+
+## [Memerator](https://github.com/Chew/Chew/blob/master/projects/memerator.md)
+
+Memerator is my largest and most worked on project by far. I've described most of it in the link above, however.
+
+# Development
+
+I work to help out several projects, mostly in the Minecraft community.
+
+## Triage
+
+I am a triage team member for several organizations. 
+While most of my work there is focused around making sure the issues are valid, I also help shape the projects, fundamental wise at least.
+
+- [PaperMC](https://github.com/PaperMC)
+- [GeyserMC](https://github.com/GeyserMC)
+- [EssentialsX](https://github.com/EssentialsX)
 
 </details>
 

@@ -1,13 +1,13 @@
 # Memerator
 
-Memerator was a project started by my friend Brian and I. At the end of 10th grade we had an idea to have a way to upload memes and have people be able to rate it.
+Memerator was a project started by my friend [Brian](https://github.com/Drshoboat) and I. At the end of 10th grade we had an idea to have a way to upload memes and have people be able to rate it.
 This idea has since expanded into something much larger, and I am very proud of it!
 
 ## Projects
 
 Memerator consists of many projects, some of which private (regretfully).
 
-### [Memerator.me](Memerator.me)
+### [Memerator.me](https://memerator.me)
 
 This is the main website. It was made using Ruby on Rails and it was started back in October of 2018. 
 Brian helped a tiny bit but I ended up doing almost all of the work.

@@ -75,9 +75,9 @@ I've caved and added some [readme stats](https://github.com/anuraghazra/github-r
 Below are my Wakatime coding stats for the last 7 days, and a general overview of my profile (including all time, public & private contributions).
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chew&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chew&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chew&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chew&layout=compact&theme=dark" />
 </span>
 

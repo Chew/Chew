@@ -72,12 +72,12 @@ I have a cat named Rory! So as a result my free time to contribute is now much l
 ## Stats and Graphs
 
 I've caved and added some [readme stats](https://github.com/anuraghazra/github-readme-stats). They are pretty cool, so I hope it's not too annoying.
-Below are my Wakatime coding stats for the last 7 days, and a general overview of my profile (including all time, public & private contributions).
 
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chew&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark" />
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chew&layout=compact&theme=dark" />
-</span>
+<details>
+  <summary>
+    The graphs
+  </summary>
+  
+![Metrics](https://metrics.lecoq.io/Chew?template=classic&languages=1&sponsors=1&code=1&achievements=1&lines=1&wakatime=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&code.lines=12&code.load=100&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&sponsors.sections=goal%2C%20about&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=America%2FChicago)
 
+</details>

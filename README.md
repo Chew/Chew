@@ -65,7 +65,7 @@ she/her :)
 
 ## ⚡ Fun fact:
 
-I have a cat named Rory! So as a result my free time to contribute is now much lower, gotta make sure she knows she's loved!
+I have a cat named [Rory](https://rory.cat) and another cat named Lorelai! So as a result my free time to contribute is now much lower, gotta make sure she knows she's loved!
 
 </details>
 

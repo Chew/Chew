@@ -32,9 +32,9 @@ I work to help out several projects, mostly in the Minecraft community.
 I am a triage team member for several organizations. 
 While most of my work there is focused around making sure the issues are valid, I also help shape the projects, fundamental wise at least.
 
-- [PaperMC](https://github.com/PaperMC)
 - [GeyserMC](https://github.com/GeyserMC)
 - [EssentialsX](https://github.com/EssentialsX)
+- [mcMMO](https://github.com/mcMMO)
 
 </details>
 

@@ -80,6 +80,3 @@ Below are my Wakatime coding stats for the last 7 days, and a general overview o
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chew&layout=compact&theme=dark" />
 </span>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background: url('https://github.com/Chew/Chew/blob/master/sapphire.jpg?raw=true') no-repeat center center; background-size: cover; backdrop-filter: blur(5px); opacity: 0.5;]{x0000}$}

@@ -82,4 +82,4 @@ Below are my Wakatime coding stats for the last 7 days, and a general overview o
 </span>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100%; width: 100%; opacity: 0.5; background: url('https://github.com/Chew/Chew/blob/master/sapphire.jpg?raw=true') no-repeat;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background: url('https://github.com/Chew/Chew/blob/masert/sapphire.jpg?raw=true') no-repeat center center; background-size: cover; opacity: 0.5;]]{x0000}$}
